@@ -23,9 +23,7 @@ return_middle('middle') # returns 'dd'
 
 Given an amount between 40 and 10000 dollars (inclusive) and assuming that the ATM wants to use as few bills as possible, determinate the minimal number of 100, 50 and 20 dollar bills the ATM needs to dispense (in that order).
 "
-250	[2,1,0]
-260	[2,0,3]
-370	[3,1,1]
+
 Examples -
 ```python
 withdraw(250) # returns [2,1,0]
